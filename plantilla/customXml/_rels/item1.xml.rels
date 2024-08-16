@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+>>>>>>> 12dc7f5efa8643de240af8484527f4bdf16efcb1
 <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps" Target="itemProps1.xml"/></Relationships>
