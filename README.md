@@ -1,7 +1,7 @@
 # Edición de documentos de tipo Docx MsWord
-| Antes         | Despues       |
-| ------------- |:-------------:|
-| ![Antes](https://github.com/vhngroup/Edit_Pptx_Presentation_With_Python/blob/main/static/Base_Example.png) | ![Despues](https://github.com/vhngroup/Edit_Pptx_Presentation_With_Python/blob/main/static/New_Example.png) |
+| Interfaz Flet         | Antes       |Despues        |
+| --------------------- |:-----------:|:-------------:|
+| ![Interfaz](https://github.com/vhngroup/Edit_Docx_Documents_With_Python/blob/main/static/Interface.png) | ![Antes](https://github.com/vhngroup/Edit_Docx_Documents_With_Python/blob/main/static/Before.png) | ![Despues](https://github.com/vhngroup/Edit_Docx_Documents_With_Python/blob/main/static/After.png) |
 
 * Script creado en python para modificar dinamicamente archivos de tipo Docx
 * Se ha utilizado la libreria *zipfile*. Para descoponer el archivo word y modifcar su archivo XML destectando los wildcard creados. 
