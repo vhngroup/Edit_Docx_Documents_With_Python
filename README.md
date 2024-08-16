@@ -1,6 +1,6 @@
 # Edición de documentos de tipo Docx MsWord
-| Interfaz      | Antes       |Despues        |
-| ------------- |:-----------:|:-------------:|
+| Interfaz      | Antes          |Despues           |
+| ------------- |:--------------:|:----------------:|
 | ![Interfaz](https://github.com/vhngroup/Edit_Docx_Documents_With_Python/blob/main/static/Interface.png) | ![Antes](https://github.com/vhngroup/Edit_Docx_Documents_With_Python/blob/main/static/Before.png) | ![Despues](https://github.com/vhngroup/Edit_Docx_Documents_With_Python/blob/main/static/After.png) |
 
 * Script creado en python para modificar dinamicamente archivos de tipo Docx
